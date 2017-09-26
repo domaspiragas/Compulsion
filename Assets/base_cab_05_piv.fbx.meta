@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: bd0b3c2cfdbdb4933a33a694746a86c1
+timeCreated: 1490075659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base_cab_05_piv:base_cab_05_COM_Lshape_2_233899_120120120
+    100004: base_cab_05_piv:base_cab_05_COM_Lshape_2_233967_120120120
+    100006: base_cab_05_piv:base_cab_05_GRP_Back_board_238567_240240240
+    100008: base_cab_05_piv:base_cab_05_GRP_CounterTop_238582_240240240
+    100010: base_cab_05_piv:base_cab_05_GRP_Facade_238579_240240240
+    100012: base_cab_05_piv:base_cab_05_GRP_Facade_238583_240240240
+    100014: base_cab_05_piv:base_cab_05_GRP_Feet_238564_101010
+    100016: base_cab_05_piv:base_cab_05_GRP_Left_side_238553_240240240
+    100018: base_cab_05_piv:base_cab_05_GRP_Lower_board_238561_240240240
+    100020: base_cab_05_piv:base_cab_05_GRP_Plinth_238570_240240240
+    100022: base_cab_05_piv:base_cab_05_GRP_Right_side_238554_240240240
+    100024: base_cab_05_piv:base_cab_05_GRP_Shelf_1_238573_240240240
+    100026: base_cab_05_piv:base_cab_05_GRP_Shelf_2_238576_240240240
+    100028: base_cab_05_piv:base_cab_05_GRP_Up_board_1_238555_240240240
+    100030: base_cab_05_piv:base_cab_05_GRP_Up_board_2_238558_240240240
+    100032: housing
+    100034: left_door
+    100036: right_door
+    400000: //RootNode
+    400002: base_cab_05_piv:base_cab_05_COM_Lshape_2_233899_120120120
+    400004: base_cab_05_piv:base_cab_05_COM_Lshape_2_233967_120120120
+    400006: base_cab_05_piv:base_cab_05_GRP_Back_board_238567_240240240
+    400008: base_cab_05_piv:base_cab_05_GRP_CounterTop_238582_240240240
+    400010: base_cab_05_piv:base_cab_05_GRP_Facade_238579_240240240
+    400012: base_cab_05_piv:base_cab_05_GRP_Facade_238583_240240240
+    400014: base_cab_05_piv:base_cab_05_GRP_Feet_238564_101010
+    400016: base_cab_05_piv:base_cab_05_GRP_Left_side_238553_240240240
+    400018: base_cab_05_piv:base_cab_05_GRP_Lower_board_238561_240240240
+    400020: base_cab_05_piv:base_cab_05_GRP_Plinth_238570_240240240
+    400022: base_cab_05_piv:base_cab_05_GRP_Right_side_238554_240240240
+    400024: base_cab_05_piv:base_cab_05_GRP_Shelf_1_238573_240240240
+    400026: base_cab_05_piv:base_cab_05_GRP_Shelf_2_238576_240240240
+    400028: base_cab_05_piv:base_cab_05_GRP_Up_board_1_238555_240240240
+    400030: base_cab_05_piv:base_cab_05_GRP_Up_board_2_238558_240240240
+    400032: housing
+    400034: left_door
+    400036: right_door
+    2300000: base_cab_05_piv:base_cab_05_COM_Lshape_2_233899_120120120
+    2300002: base_cab_05_piv:base_cab_05_COM_Lshape_2_233967_120120120
+    2300004: base_cab_05_piv:base_cab_05_GRP_Back_board_238567_240240240
+    2300006: base_cab_05_piv:base_cab_05_GRP_CounterTop_238582_240240240
+    2300008: base_cab_05_piv:base_cab_05_GRP_Facade_238579_240240240
+    2300010: base_cab_05_piv:base_cab_05_GRP_Facade_238583_240240240
+    2300012: base_cab_05_piv:base_cab_05_GRP_Feet_238564_101010
+    2300014: base_cab_05_piv:base_cab_05_GRP_Left_side_238553_240240240
+    2300016: base_cab_05_piv:base_cab_05_GRP_Lower_board_238561_240240240
+    2300018: base_cab_05_piv:base_cab_05_GRP_Plinth_238570_240240240
+    2300020: base_cab_05_piv:base_cab_05_GRP_Right_side_238554_240240240
+    2300022: base_cab_05_piv:base_cab_05_GRP_Shelf_1_238573_240240240
+    2300024: base_cab_05_piv:base_cab_05_GRP_Shelf_2_238576_240240240
+    2300026: base_cab_05_piv:base_cab_05_GRP_Up_board_1_238555_240240240
+    2300028: base_cab_05_piv:base_cab_05_GRP_Up_board_2_238558_240240240
+    3300000: base_cab_05_piv:base_cab_05_COM_Lshape_2_233899_120120120
+    3300002: base_cab_05_piv:base_cab_05_COM_Lshape_2_233967_120120120
+    3300004: base_cab_05_piv:base_cab_05_GRP_Back_board_238567_240240240
+    3300006: base_cab_05_piv:base_cab_05_GRP_CounterTop_238582_240240240
+    3300008: base_cab_05_piv:base_cab_05_GRP_Facade_238579_240240240
+    3300010: base_cab_05_piv:base_cab_05_GRP_Facade_238583_240240240
+    3300012: base_cab_05_piv:base_cab_05_GRP_Feet_238564_101010
+    3300014: base_cab_05_piv:base_cab_05_GRP_Left_side_238553_240240240
+    3300016: base_cab_05_piv:base_cab_05_GRP_Lower_board_238561_240240240
+    3300018: base_cab_05_piv:base_cab_05_GRP_Plinth_238570_240240240
+    3300020: base_cab_05_piv:base_cab_05_GRP_Right_side_238554_240240240
+    3300022: base_cab_05_piv:base_cab_05_GRP_Shelf_1_238573_240240240
+    3300024: base_cab_05_piv:base_cab_05_GRP_Shelf_2_238576_240240240
+    3300026: base_cab_05_piv:base_cab_05_GRP_Up_board_1_238555_240240240
+    3300028: base_cab_05_piv:base_cab_05_GRP_Up_board_2_238558_240240240
+    4300000: base_cab_05_piv:base_cab_05_GRP_Left_side_238553_240240240
+    4300002: base_cab_05_piv:base_cab_05_GRP_Right_side_238554_240240240
+    4300004: base_cab_05_piv:base_cab_05_GRP_Up_board_1_238555_240240240
+    4300006: base_cab_05_piv:base_cab_05_GRP_Up_board_2_238558_240240240
+    4300008: base_cab_05_piv:base_cab_05_GRP_Lower_board_238561_240240240
+    4300010: base_cab_05_piv:base_cab_05_GRP_Feet_238564_101010
+    4300012: base_cab_05_piv:base_cab_05_GRP_Back_board_238567_240240240
+    4300014: base_cab_05_piv:base_cab_05_GRP_Plinth_238570_240240240
+    4300016: base_cab_05_piv:base_cab_05_GRP_Shelf_1_238573_240240240
+    4300018: base_cab_05_piv:base_cab_05_GRP_Shelf_2_238576_240240240
+    4300020: base_cab_05_piv:base_cab_05_GRP_CounterTop_238582_240240240
+    4300022: base_cab_05_piv:base_cab_05_COM_Lshape_2_233899_120120120
+    4300024: base_cab_05_piv:base_cab_05_GRP_Facade_238579_240240240
+    4300026: base_cab_05_piv:base_cab_05_GRP_Facade_238583_240240240
+    4300028: base_cab_05_piv:base_cab_05_COM_Lshape_2_233967_120120120
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

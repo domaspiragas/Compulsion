@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: bc20071ab417a4e26a3ca22832e182d2
+timeCreated: 1490076557
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: housing
+    100002: left_door
+    100004: right_door
+    100006: //RootNode
+    100008: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327837_120120120
+    100010: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327905_120120120
+    100012: upper_cab_01_piv:upper_cab_01_GRP_Back_board_328542_240240240
+    100014: upper_cab_01_piv:upper_cab_01_GRP_Facade_328551_240240240
+    100016: upper_cab_01_piv:upper_cab_01_GRP_Facade_328554_240240240
+    100018: upper_cab_01_piv:upper_cab_01_GRP_Left_side_328530_240240240
+    100020: upper_cab_01_piv:upper_cab_01_GRP_Lower_board_328539_240240240
+    100022: upper_cab_01_piv:upper_cab_01_GRP_Right_side_328533_240240240
+    100024: upper_cab_01_piv:upper_cab_01_GRP_Shelf_1_328545_240240240
+    100026: upper_cab_01_piv:upper_cab_01_GRP_Shelf_2_328548_240240240
+    100028: upper_cab_01_piv:upper_cab_01_GRP_Up_board_328536_240240240
+    400000: housing
+    400002: left_door
+    400004: right_door
+    400006: //RootNode
+    400008: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327837_120120120
+    400010: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327905_120120120
+    400012: upper_cab_01_piv:upper_cab_01_GRP_Back_board_328542_240240240
+    400014: upper_cab_01_piv:upper_cab_01_GRP_Facade_328551_240240240
+    400016: upper_cab_01_piv:upper_cab_01_GRP_Facade_328554_240240240
+    400018: upper_cab_01_piv:upper_cab_01_GRP_Left_side_328530_240240240
+    400020: upper_cab_01_piv:upper_cab_01_GRP_Lower_board_328539_240240240
+    400022: upper_cab_01_piv:upper_cab_01_GRP_Right_side_328533_240240240
+    400024: upper_cab_01_piv:upper_cab_01_GRP_Shelf_1_328545_240240240
+    400026: upper_cab_01_piv:upper_cab_01_GRP_Shelf_2_328548_240240240
+    400028: upper_cab_01_piv:upper_cab_01_GRP_Up_board_328536_240240240
+    2300000: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327837_120120120
+    2300002: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327905_120120120
+    2300004: upper_cab_01_piv:upper_cab_01_GRP_Back_board_328542_240240240
+    2300006: upper_cab_01_piv:upper_cab_01_GRP_Facade_328551_240240240
+    2300008: upper_cab_01_piv:upper_cab_01_GRP_Facade_328554_240240240
+    2300010: upper_cab_01_piv:upper_cab_01_GRP_Left_side_328530_240240240
+    2300012: upper_cab_01_piv:upper_cab_01_GRP_Lower_board_328539_240240240
+    2300014: upper_cab_01_piv:upper_cab_01_GRP_Right_side_328533_240240240
+    2300016: upper_cab_01_piv:upper_cab_01_GRP_Shelf_1_328545_240240240
+    2300018: upper_cab_01_piv:upper_cab_01_GRP_Shelf_2_328548_240240240
+    2300020: upper_cab_01_piv:upper_cab_01_GRP_Up_board_328536_240240240
+    3300000: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327837_120120120
+    3300002: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327905_120120120
+    3300004: upper_cab_01_piv:upper_cab_01_GRP_Back_board_328542_240240240
+    3300006: upper_cab_01_piv:upper_cab_01_GRP_Facade_328551_240240240
+    3300008: upper_cab_01_piv:upper_cab_01_GRP_Facade_328554_240240240
+    3300010: upper_cab_01_piv:upper_cab_01_GRP_Left_side_328530_240240240
+    3300012: upper_cab_01_piv:upper_cab_01_GRP_Lower_board_328539_240240240
+    3300014: upper_cab_01_piv:upper_cab_01_GRP_Right_side_328533_240240240
+    3300016: upper_cab_01_piv:upper_cab_01_GRP_Shelf_1_328545_240240240
+    3300018: upper_cab_01_piv:upper_cab_01_GRP_Shelf_2_328548_240240240
+    3300020: upper_cab_01_piv:upper_cab_01_GRP_Up_board_328536_240240240
+    4300000: upper_cab_01_piv:upper_cab_01_GRP_Facade_328551_240240240
+    4300002: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327837_120120120
+    4300004: upper_cab_01_piv:upper_cab_01_COM_Lshape_2_327905_120120120
+    4300006: upper_cab_01_piv:upper_cab_01_GRP_Facade_328554_240240240
+    4300008: upper_cab_01_piv:upper_cab_01_GRP_Shelf_2_328548_240240240
+    4300010: upper_cab_01_piv:upper_cab_01_GRP_Shelf_1_328545_240240240
+    4300012: upper_cab_01_piv:upper_cab_01_GRP_Back_board_328542_240240240
+    4300014: upper_cab_01_piv:upper_cab_01_GRP_Lower_board_328539_240240240
+    4300016: upper_cab_01_piv:upper_cab_01_GRP_Up_board_328536_240240240
+    4300018: upper_cab_01_piv:upper_cab_01_GRP_Right_side_328533_240240240
+    4300020: upper_cab_01_piv:upper_cab_01_GRP_Left_side_328530_240240240
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

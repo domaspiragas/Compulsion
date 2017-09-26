@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 5a15d7456effc445aa1fd692d7cd4ab7
+timeCreated: 1490076908
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: housing
+    100002: left_door
+    100004: right_door
+    100006: //RootNode
+    100008: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_429896_120120120
+    100010: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_430165_120120120
+    100012: upper_cab_03_piv:upper_cab_03_GRP_Back_board_430936_240240240
+    100014: upper_cab_03_piv:upper_cab_03_GRP_Facade_430939_240240240
+    100016: upper_cab_03_piv:upper_cab_03_GRP_Facade_430942_240240240
+    100018: upper_cab_03_piv:upper_cab_03_GRP_Left_side_430924_240240240
+    100020: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_430933_240240240
+    100022: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_431232_Default_Material
+    100024: upper_cab_03_piv:upper_cab_03_GRP_Right_side_430927_240240240
+    100026: upper_cab_03_piv:upper_cab_03_GRP_Up_board_430930_240240240
+    400000: housing
+    400002: left_door
+    400004: right_door
+    400006: //RootNode
+    400008: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_429896_120120120
+    400010: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_430165_120120120
+    400012: upper_cab_03_piv:upper_cab_03_GRP_Back_board_430936_240240240
+    400014: upper_cab_03_piv:upper_cab_03_GRP_Facade_430939_240240240
+    400016: upper_cab_03_piv:upper_cab_03_GRP_Facade_430942_240240240
+    400018: upper_cab_03_piv:upper_cab_03_GRP_Left_side_430924_240240240
+    400020: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_430933_240240240
+    400022: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_431232_Default_Material
+    400024: upper_cab_03_piv:upper_cab_03_GRP_Right_side_430927_240240240
+    400026: upper_cab_03_piv:upper_cab_03_GRP_Up_board_430930_240240240
+    2300000: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_429896_120120120
+    2300002: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_430165_120120120
+    2300004: upper_cab_03_piv:upper_cab_03_GRP_Back_board_430936_240240240
+    2300006: upper_cab_03_piv:upper_cab_03_GRP_Facade_430939_240240240
+    2300008: upper_cab_03_piv:upper_cab_03_GRP_Facade_430942_240240240
+    2300010: upper_cab_03_piv:upper_cab_03_GRP_Left_side_430924_240240240
+    2300012: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_430933_240240240
+    2300014: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_431232_Default_Material
+    2300016: upper_cab_03_piv:upper_cab_03_GRP_Right_side_430927_240240240
+    2300018: upper_cab_03_piv:upper_cab_03_GRP_Up_board_430930_240240240
+    3300000: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_429896_120120120
+    3300002: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_430165_120120120
+    3300004: upper_cab_03_piv:upper_cab_03_GRP_Back_board_430936_240240240
+    3300006: upper_cab_03_piv:upper_cab_03_GRP_Facade_430939_240240240
+    3300008: upper_cab_03_piv:upper_cab_03_GRP_Facade_430942_240240240
+    3300010: upper_cab_03_piv:upper_cab_03_GRP_Left_side_430924_240240240
+    3300012: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_430933_240240240
+    3300014: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_431232_Default_Material
+    3300016: upper_cab_03_piv:upper_cab_03_GRP_Right_side_430927_240240240
+    3300018: upper_cab_03_piv:upper_cab_03_GRP_Up_board_430930_240240240
+    4300000: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_431232_Default_Material
+    4300002: upper_cab_03_piv:upper_cab_03_GRP_Left_side_430924_240240240
+    4300004: upper_cab_03_piv:upper_cab_03_GRP_Right_side_430927_240240240
+    4300006: upper_cab_03_piv:upper_cab_03_GRP_Up_board_430930_240240240
+    4300008: upper_cab_03_piv:upper_cab_03_GRP_Lower_board_430933_240240240
+    4300010: upper_cab_03_piv:upper_cab_03_GRP_Back_board_430936_240240240
+    4300012: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_429896_120120120
+    4300014: upper_cab_03_piv:upper_cab_03_GRP_Facade_430942_240240240
+    4300016: upper_cab_03_piv:upper_cab_03_GRP_Facade_430939_240240240
+    4300018: upper_cab_03_piv:upper_cab_03_COM_Lshape_2_430165_120120120
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
